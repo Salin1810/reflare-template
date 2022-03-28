@@ -8,7 +8,7 @@ const handleRequest = async (
   reflare.push({
     path: '/*',
     upstream: {
-      domain: 'xvideos.com',
+      domain: 'voz.vn',
       protocol: 'https',
     },
   });
