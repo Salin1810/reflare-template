@@ -8,7 +8,7 @@ const handleRequest = async (
   reflare.push({
     path: '/*',
     upstream: {
-      domain: 'voz.vn',
+      domain: 'chat.zalo.me',
       protocol: 'https',
     },
   });
