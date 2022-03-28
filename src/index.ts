@@ -8,7 +8,7 @@ const handleRequest = async (
   reflare.push({
     path: '/*',
     upstream: {
-      domain: 'voz.vn',
+      domain: 'www.bbc.com',
       protocol: 'https',
     },
   });
