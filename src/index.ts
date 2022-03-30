@@ -8,7 +8,7 @@ const handleRequest = async (
   reflare.push({
     path: '/*',
     upstream: {
-      domain: 'www.bbc.com',
+      domain: 'www.nettruyen.com',
       protocol: 'https',
     },
   });
